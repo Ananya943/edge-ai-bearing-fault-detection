@@ -1,0 +1,16 @@
+feature
+log_sd
+log_rms
+sd
+rms
+log_variance
+log_rms_energy
+log_peak_to_peak
+variance
+rms_energy
+log_absolute_peak
+peak_to_peak
+min
+absolute_peak
+max
+mean

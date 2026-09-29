@@ -1,0 +1,2 @@
+project,model,number_of_features,features,inference_samples,average_latency_ms,minimum_latency_ms,maximum_latency_ms,created_at
+Edge AI Bearing Fault Detection,best_optimized_model.pkl,15,"['log_sd', 'log_rms', 'sd', 'rms', 'log_variance', 'log_rms_energy', 'log_peak_to_peak', 'variance', 'rms_energy', 'log_absolute_peak', 'peak_to_peak', 'min', 'absolute_peak', 'max', 'mean']",20,4.418360600004689,2.660165000179404,12.627470000097674,2026-09-29T15:06:08.018150

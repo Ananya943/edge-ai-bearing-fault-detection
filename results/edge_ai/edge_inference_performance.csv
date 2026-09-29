@@ -1,0 +1,5 @@
+metric,value
+average_latency_ms,4.418360600004689
+minimum_latency_ms,2.660165000179404
+maximum_latency_ms,12.627470000097674
+samples_tested,20.0
